@@ -1,3 +1,8 @@
+/*
+   I added this comment on New-feature-add branch I created.
+   The test will be to merge this branch to the master so that
+   comments are absorbed.
+ */
 package guru.springframework.spring5webapp.model;
 
 import javax.persistence.*;
