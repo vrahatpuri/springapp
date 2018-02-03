@@ -1,3 +1,6 @@
+/*
+This file is part of the initial commit to the git repository.
+ */
 package guru.springframework.spring5webapp.model;
 
 import javax.persistence.*;
